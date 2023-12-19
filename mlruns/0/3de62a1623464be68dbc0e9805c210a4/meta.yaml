@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3de62a1623464be68dbc0e9805c210a4/artifacts
+end_time: 1702980898347
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3de62a1623464be68dbc0e9805c210a4
+run_name: loud-shark-786
+run_uuid: 3de62a1623464be68dbc0e9805c210a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702980896766
+status: 4
+tags: []
+user_id: mansi_ta

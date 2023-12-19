@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451606269960636993/7bcd942094f44194ab209e34a1ee4d89/artifacts
+end_time: 1702978577213
+entry_point_name: ''
+experiment_id: '451606269960636993'
+lifecycle_stage: active
+run_id: 7bcd942094f44194ab209e34a1ee4d89
+run_name: stately-stag-482
+run_uuid: 7bcd942094f44194ab209e34a1ee4d89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702978575735
+status: 3
+tags: []
+user_id: mansi_ta

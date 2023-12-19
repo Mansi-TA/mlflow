@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6ddcd9ee03c14ca1abbd20ef8bc522fa/artifacts
+end_time: 1702979086854
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6ddcd9ee03c14ca1abbd20ef8bc522fa
+run_name: angry-wren-424
+run_uuid: 6ddcd9ee03c14ca1abbd20ef8bc522fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702979085164
+status: 4
+tags: []
+user_id: mansi_ta

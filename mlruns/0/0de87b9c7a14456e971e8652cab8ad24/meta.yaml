@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0de87b9c7a14456e971e8652cab8ad24/artifacts
+end_time: 1702978380358
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0de87b9c7a14456e971e8652cab8ad24
+run_name: welcoming-mule-21
+run_uuid: 0de87b9c7a14456e971e8652cab8ad24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702978378667
+status: 3
+tags: []
+user_id: mansi_ta

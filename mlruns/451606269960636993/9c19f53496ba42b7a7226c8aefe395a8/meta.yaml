@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451606269960636993/9c19f53496ba42b7a7226c8aefe395a8/artifacts
+end_time: 1702978578650
+entry_point_name: ''
+experiment_id: '451606269960636993'
+lifecycle_stage: active
+run_id: 9c19f53496ba42b7a7226c8aefe395a8
+run_name: loud-fly-622
+run_uuid: 9c19f53496ba42b7a7226c8aefe395a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702978577236
+status: 3
+tags: []
+user_id: mansi_ta

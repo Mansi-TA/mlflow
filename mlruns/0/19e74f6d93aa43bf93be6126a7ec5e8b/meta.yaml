@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/19e74f6d93aa43bf93be6126a7ec5e8b/artifacts
+end_time: 1702978375083
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 19e74f6d93aa43bf93be6126a7ec5e8b
+run_name: nervous-conch-84
+run_uuid: 19e74f6d93aa43bf93be6126a7ec5e8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702978369649
+status: 3
+tags: []
+user_id: mansi_ta
